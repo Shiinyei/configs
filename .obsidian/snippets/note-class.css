@@ -1,0 +1,7 @@
+/*
+  Custom CSS classes to apply on individual notes through the 'cssclasses' property
+*/
+
+.cssclasses-moc{
+  max-width: 100%;
+}

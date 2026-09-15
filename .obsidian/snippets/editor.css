@@ -1,0 +1,11 @@
+/*
+  Editor View
+*/
+.view-header-title-container:not(.mod-at-end):after{
+  background: none;
+}
+
+.markdown-source-view, .markdown-preview-view {
+  max-width: 85%;
+  margin: auto;
+}

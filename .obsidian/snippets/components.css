@@ -1,0 +1,29 @@
+/*
+  Custom classes to apply on raw HTML tags
+*/
+span[class^='badge']{
+  padding: 0px 4px;
+  border-radius: 4px;
+}
+
+/* iRacing */
+span.badge-ir-a{
+  background-color: #0153db;
+}
+
+span.badge-ir-b{
+  background-color: #00c702;
+}
+
+span.badge-ir-c{
+  background-color: #feec04;
+  color: black;
+}
+
+span.badge-ir-d{
+  background-color: #fc8a27;
+}
+
+span.badge-ir-r{
+  background-color: #fc0706;
+}

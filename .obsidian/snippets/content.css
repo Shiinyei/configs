@@ -1,0 +1,19 @@
+/*
+  Note content
+*/
+table{
+  background-color: rgba(30,30,30,0.6);
+}
+
+table thead{
+  background-color: rgba(60,60,60,0.6);
+}
+
+table tbody tr:nth-child(even){
+  background-color: #FFFFFF0C;
+}
+
+.markdown-rendered tbody tr:nth-child(odd):hover,
+.table-view-table > tbody > tr:hover{
+  background-color: #FFFFFF2F;
+}

@@ -1,0 +1,10 @@
+/*
+  MCM Columns (plugin)
+*/
+.mcm-column-div{
+  border: none;
+}
+
+.mcm-column-spacer{
+  border: solid 2px #CCC;
+}

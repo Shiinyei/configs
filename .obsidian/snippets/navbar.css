@@ -1,0 +1,65 @@
+/*
+  Side navigation bar
+*/
+.nav-files-container > div {
+  /* PROJECTS */
+  & > :nth-child(1 of .tree-item) .tree-item-self {
+    color: #a9e9fe;
+    &:hover {
+      color: #a9e9fe;
+    }
+    & * {
+      color: #a9e9fe !important;
+    }
+  }
+  /* AREAS */
+  & > :nth-child(2 of .tree-item) .tree-item-self {
+    color: #ffb3b3;
+    &:hover{
+      color: #ffb3b3;
+    }
+    & * {
+      color: #ffb3b3;
+    }
+  }
+  /* RESOURCES */
+  & > :nth-child(3 of .tree-item) .tree-item-self {
+    color: #a2fe90;
+    &:hover {
+      color: #a2fe90;
+    }
+    & * {
+      color: #a2fe90;
+    }
+  }
+  /* ARCHIVES */
+  & > :nth-child(4 of .tree-item) .tree-item-self {
+    color: #ffdc5c;
+    &:hover {
+      color: #ffdc5c;
+    }
+    & * {
+      color: #ffdc5c;
+    }
+  }
+  /* FLEETING */
+  & > :nth-child(5 of .tree-item) .tree-item-self {
+    color: #6EFFCC;
+    &:hover {
+      color: #6EFFCC;
+    }
+    & * {
+      color: #6EFFCC;
+    }
+  }
+  /* All other nav items */
+  & > .tree-item .tree-item-self {
+    color: #dfb8ff;
+    &:hover {
+      color: #dfb8ff;
+    }
+    & * {
+      color: #dfb8ff;
+    }
+  }
+}

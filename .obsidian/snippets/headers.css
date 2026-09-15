@@ -1,0 +1,21 @@
+/*
+  Markdown headers
+*/
+.cm-header-1, .inline-title{
+  color: #A385FF;
+}
+.cm-header-2{
+  color: #B49BFF;
+}
+.cm-header-3{
+  color: #C4B1FF;
+}
+.cm-header-4{
+  color: #D5C8FF;
+}
+.cm-header-5{
+  color: #E6DEFF;
+}
+.cm-header-6{
+  color: #F7F4FF;
+}
