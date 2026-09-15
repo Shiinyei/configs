@@ -1,7 +1,8 @@
 {
-  "workbench.secondarySideBar.defaultVisibility": "hidden",
-  "telemetry.telemetryLevel": "off",
-  "workbench.startupEditor": "none",
+  "editor.detectIndentation": false,
   "editor.tabSize": 2,
-  "editor.detectIndentation": false
+  "telemetry.telemetryLevel": "off",
+  "workbench.editor.enablePreview": false,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.startupEditor": "none"
 }
